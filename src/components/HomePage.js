@@ -7,11 +7,16 @@ function HomePage() {
   return (
     <div>
       <Container>
-        <Row>
-          <Col>
-            <h1 className="homepageHeader">testing</h1>
-          </Col>
-        </Row>
+        <div className="jumbotron">
+          <a id="aboutMeLink" href="/">
+            About Me
+          </a>
+          <Row>
+            <Col>
+              <h1 className="homepageHeader">testing</h1>
+            </Col>
+          </Row>
+        </div>
       </Container>
     </div>
   );

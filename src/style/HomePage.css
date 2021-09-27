@@ -5,3 +5,8 @@
   height: 7rem;
   margin-left: 7%;
 }
+
+#aboutMeLink {
+  float: right;
+  padding-bottom: 1rem;
+}
