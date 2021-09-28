@@ -1,12 +1,32 @@
+body {
+  background-color: rgb(61, 61, 61);
+}
+
 .homepageHeader {
-  border: 3px solid yellow;
-  background-color: yellow;
-  width: 85%;
+  width: 92%;
   height: 7rem;
   margin-left: 7%;
+  border-radius: 13px;
+}
+.jumbotron {
+  background-color: #ffc404 !important;
+  border: 3px solid rgb(0, 0, 0);
+}
+
+.homepageHeader h1 {
+  font-size: 40px;
 }
 
 #aboutMeLink {
   float: right;
   padding-bottom: 1rem;
+}
+
+#homepageFooter {
+  background-color: #043fff;
+}
+
+#homepageFooter a {
+  color: white;
+  height: 8rem;
 }

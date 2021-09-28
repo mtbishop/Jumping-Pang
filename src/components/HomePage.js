@@ -1,5 +1,6 @@
 import '../style/HomePage.css';
 import Container from 'react-bootstrap/Container';
+import Footer from './Footer';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
@@ -7,16 +8,17 @@ function HomePage() {
   return (
     <div>
       <Container>
-        <div className="jumbotron">
+        <div id="headerJumbo" className="jumbotron">
           <a id="aboutMeLink" href="/">
-            About Me
+            About Us
           </a>
           <Row>
             <Col>
-              <h1 className="homepageHeader">testing</h1>
+              <h1 className="homepageHeader">Jumping Pang</h1>
             </Col>
           </Row>
         </div>
+        <Footer />
       </Container>
     </div>
   );
