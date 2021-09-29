@@ -1,0 +1,25 @@
+p {
+  font-size: 14px;
+  color: wheat;
+  text-align: center;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: wheat;
+  padding-bottom: 1rem;
+}
+
+.footerColumns {
+  width: 24%;
+}
+
+div .col {
+  padding: 0px 0px 0px 0px;
+}
+
+#homepageFooter {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
