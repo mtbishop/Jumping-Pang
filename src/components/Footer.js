@@ -12,28 +12,28 @@ function Footer() {
             <Col>
               <div className="footerColumns">
                 <h4>Info</h4>
-                <p>Formats</p>
-                <p>Compression</p>
-                <p>Pricing</p>
-                <p>FAQ</p>
-                <p>Status</p>
+                <p href="/">Formats</p>
+                <p href="/">Compression</p>
+                <p href="/">Pricing</p>
+                <p href="/">FAQ</p>
+                <p href="/">Status</p>
               </div>
             </Col>
             <Col>
               <div className="footerColumns">
                 <h4>Resources</h4>
-                <p>Dev API</p>
-                <p>Tools</p>
-                <p>Blog</p>
+                <p href="/">Dev API</p>
+                <p href="/">Tools</p>
+                <p href="/">Blog</p>
               </div>
             </Col>
             <Col>
               <div className="footerColumns">
                 <h4>Company</h4>
-                <p>About Us</p>
-                <p>Sustainability</p>
-                <p>Terms of Service</p>
-                <p>Privacy</p>
+                <p href="/">About Us</p>
+                <p href="/">Sustainability</p>
+                <p href="/">Terms of Service</p>
+                <p href="/">Privacy</p>
               </div>
             </Col>
             <Col>

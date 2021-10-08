@@ -5,7 +5,7 @@ body {
 .homepageHeader {
   width: 92%;
   height: 7rem;
-  margin-left: 7%;
+  margin-left: 3%;
   border-radius: 13px;
 }
 .jumbotron {
@@ -29,4 +29,9 @@ body {
 #homepageFooter a {
   color: white;
   height: 8rem;
+}
+
+#jpLogo {
+  height: 250px;
+  width: 250px;
 }
